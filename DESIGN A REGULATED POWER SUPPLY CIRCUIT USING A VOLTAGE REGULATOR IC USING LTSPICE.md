@@ -7,7 +7,9 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
-
+![WhatsApp Image 2026-04-01 at 15 34 12](https://github.com/user-attachments/assets/2d4d8a3b-7570-448c-97ee-5fd8c5ccd032)
+## CIRCUIT DIAGRAM 
+<img width="897" height="1146" alt="image" src="https://github.com/user-attachments/assets/4f4b8388-e5c4-4838-ac99-8615ba2fcaf7" />
 ## Graph
 
 
